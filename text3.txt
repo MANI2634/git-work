@@ -1,0 +1,1 @@
+mani text3.txt
